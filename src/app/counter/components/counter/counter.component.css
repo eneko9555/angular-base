@@ -1,0 +1,19 @@
+.container-counter {
+    background: #fff;
+    border :1px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 3rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+    justify-content: center;
+
+    button {
+        margin: 5px;
+        border-radius: 10px;
+        border: 1px solid gray;
+        padding: 10px;
+    }
+}
